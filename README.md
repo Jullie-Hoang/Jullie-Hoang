@@ -3,7 +3,6 @@
 <h3 align="center">Just a Economics and Finance students from Vietnam passionates about data analytics</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jullie-hoang&label=Profile%20views&color=0e75b6&style=flat" alt="jullie-hoang" /> </p>
 
 - 🎓 I’m currently studying at **RMIT University, Vietnam**
 
@@ -16,6 +15,7 @@
 - 📚 Visit my book review page: **https://www.instagram.com/jullie.withan_e/** 
 
 - 🔥 Fun fact **My MBTI is INTJ - A**
+  
 
 ![](https://github-readme-stats.vercel.app/api?username=jullie-hoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jullie-hoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
