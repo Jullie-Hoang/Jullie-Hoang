@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Data Analytics**
     
-- 📫 Reach me at **linhhoangha2002@gmail.com**
+- 📫 Reach me at [![Gmail](https://img.shields.io/badge/Gmail-%D14836.svg?logo=gmail&logoColor=white)](linhhoangha2002@gmail.com)
 
-- 📲 Connect with me via **www.linkedin.com/in/linh-hoàng-hà-profile**
+- 📲 Connect with me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linh-hoàng-hà-profile/)
 
-- 📚 Visit my book review page **https://www.instagram.com/jullie.withan_e/** 
+- 📚 Visit my book review page [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jullie.withan_e) 
 
 - 🔥 Fun fact is that **my MBTI is INTJ - A**
   
