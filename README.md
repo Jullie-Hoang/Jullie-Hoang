@@ -12,9 +12,9 @@
 
 - 📲 Connect with me via **www.linkedin.com/in/linh-hoàng-hà-profile**
 
-- 📚 Visit my book review page: **https://www.instagram.com/jullie.withan_e/** 
+- 📚 Visit my book review page **https://www.instagram.com/jullie.withan_e/** 
 
-- 🔥 Fun fact **My MBTI is INTJ - A**
+- 🔥 Fun fact is that **my MBTI is INTJ - A**
   
 
 ![](https://github-readme-stats.vercel.app/api?username=jullie-hoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
