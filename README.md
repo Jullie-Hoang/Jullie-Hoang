@@ -3,20 +3,14 @@
 <h3 align="center">Just a Economics and Finance students from Vietnam who is passionate about data analytics</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
-
-- 🎓 I’m currently studying at **RMIT University, Vietnam**
-
-- 🌱 I’m currently learning **Data Analytics**
+- 🎓 Bachelor of Economics and Finance, graduated at **RMIT University, Vietnam** with **Distinction**
     
 - 📫 Reach me at [![Gmail](https://img.shields.io/badge/Gmail-%D14836.svg?logo=gmail&logoColor=white)](linhhoangha2002@gmail.com)
 
 - 📲 Connect with me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linh-hoàng-hà-profile/)
 
-- 📚 Visit my book review page [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jullie.withan_e) 
-
 - 🔥 Fun fact is that **my MBTI is INTJ - A**
   
-
 ![](https://github-readme-stats.vercel.app/api?username=jullie-hoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jullie-hoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -27,7 +21,6 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 
